@@ -5,6 +5,7 @@ entity faqt_and_a is
     A_AND : out bit
   );
 end entity;
+  
 
 architecture dataflow of faqt_and_a is
 begin
